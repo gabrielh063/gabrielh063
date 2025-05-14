@@ -20,6 +20,6 @@ Sou desenvolvedor com foco em back-end apaixonado por construir soluções funci
 
 ## 📫 Contato
 
-Você pode me encontrar no [LinkedIn](https://linkedin.com/in/seu-usuario) ou enviar um e-mail para **seu-email@dominio.com**.
+Você pode me encontrar no [LinkedIn](www.linkedin.com/in/gabriel-henrique-alves-a63570269).
 
 ---
