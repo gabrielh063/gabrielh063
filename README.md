@@ -5,8 +5,10 @@ Sou desenvolvedor com foco em back-end, apaixonado por construir soluções func
 ## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielh063&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielh063&layout=default&langs_count=10&theme=tokyonight" alt="Top Languages Bar Chart" />
 </p>
+
+> 💡 Esse gráfico é atualizado automaticamente com base nos repositórios públicos do GitHub e se ajusta para exibir novas linguagens adicionadas.
 
 ---
 
@@ -38,3 +40,4 @@ Sou desenvolvedor com foco em back-end, apaixonado por construir soluções func
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-alves-a63570269)
 
 ---
+
