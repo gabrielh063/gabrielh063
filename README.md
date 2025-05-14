@@ -14,7 +14,7 @@ Sou desenvolvedor com foco em [back-end, front-end, fullstack – escolha o seu 
 
 ## 📊 Estatísticas de uso de linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielh063&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
