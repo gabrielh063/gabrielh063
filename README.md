@@ -4,13 +4,13 @@ Sou desenvolvedor com foco em [back-end, front-end, fullstack – escolha o seu 
 
 ## 🚀 Linguagens & Tecnologias
 
-| Linguagem | Descrição | Repositórios |
+| Linguagem | Descrição | 
 |----------|-----------|--------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Desenvolvimento de APIs, automações e back-end com Flask | [To-Do App](https://github.com/seu-usuario/nome-do-repo-todo), [Automatizador XYZ](https://github.com/seu-usuario/automatizador-xyz) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Interfaces dinâmicas e lógicas front-end | [To-Do App Front-end](https://github.com/seu-usuario/nome-do-repo-frontend), [Calculadora](https://github.com/seu-usuario/calculadora-js) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | Estruturação de páginas web | [Portfólio Pessoal](https://github.com/seu-usuario/portfolio-html), [Landing Page](https://github.com/seu-usuario/landing-page) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Estilização moderna e responsiva | [Portfólio Pessoal](https://github.com/seu-usuario/portfolio-html), [Landing Page](https://github.com/seu-usuario/landing-page) |
-| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Banco de dados relacional em projetos back-end | [To-Do App](https://github.com/seu-usuario/nome-do-repo-todo) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | 
 
 ## 📊 Estatísticas de uso de linguagens
 
