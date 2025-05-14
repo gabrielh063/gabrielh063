@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Gabriel
 
-Sou desenvolvedor com foco em [back-end, front-end, fullstack – escolha o seu foco], apaixonado por construir soluções funcionais, eficientes e bem estruturadas. Este portfólio reúne os projetos que desenvolvi usando diferentes linguagens e tecnologias.
+Sou desenvolvedor com foco em back-end apaixonado por construir soluções funcionais, eficientes e bem estruturadas. Este portfólio reúne os projetos que desenvolvi usando diferentes linguagens e tecnologias.
 
 ## 🚀 Linguagens & Tecnologias
 
