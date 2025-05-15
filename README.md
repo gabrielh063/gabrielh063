@@ -4,27 +4,7 @@ Sou desenvolvedor com foco em back-end, apaixonado por construir soluções func
 
 ## 📊 Linguagens mais usadas
 
-<div style="display: flex; align-items: flex-end; height: 200px; gap: 20px;">
-
-  <div style="text-align: center;">
-    <div style="background-color: #f1e05a; height: 120px; width: 40px; border-radius: 5px;"></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
-    <div>60%</div>
-  </div>
-
-  <div style="text-align: center;">
-    <div style="background-color: #3572A5; height: 80px; width: 40px; border-radius: 5px;"></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" />
-    <div>40%</div>
-  </div>
-
-  <div style="text-align: center;">
-    <div style="background-color: #e34c26; height: 60px; width: 40px; border-radius: 5px;"></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" />
-    <div>30%</div>
-  </div>
-
-</div>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gabrielh063" frameborder="0"></iframe>
 
 > 💡 Esse gráfico é atualizado automaticamente com base nos repositórios públicos do GitHub e se ajusta para exibir novas linguagens adicionadas.
 
