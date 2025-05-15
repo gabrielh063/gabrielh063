@@ -4,7 +4,7 @@ Sou desenvolvedor com foco em back-end, apaixonado por construir soluções func
 
 ## 📊 Linguagens mais usadas
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gabrielh063" frameborder="0"></iframe>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielh063&layout=compact&langs_count=8&theme=tokyonight)
 
 > 💡 Esse gráfico é atualizado automaticamente com base nos repositórios públicos do GitHub e se ajusta para exibir novas linguagens adicionadas.
 
